@@ -35,9 +35,9 @@ JetBrains的idea（java编程）、pycharm（python编程）、Webstorm（前端
 
 #### 2.知网校园账号
 
-在校园网下登录[知网](http://www.cnki.net/)即可![](img/cnki.png)
+[在校园网下进入知网](http://www.cnki.net/)即可![](img/cnki.png)
 
-#### 3.GitHub的教育包
+#### 3.GitHub教育包
 
 [https://education.github.com/pack](https://education.github.com/pack)
 
@@ -45,7 +45,7 @@ JetBrains的idea（java编程）、pycharm（python编程）、Webstorm（前端
 
 [https://cloud.tencent.com/act/campus](https://cloud.tencent.com/act/campus)
 
-#### 5.苹果教育优惠和学生折扣
+#### 5.苹果教育优惠
 
 [https://www.apple.com/cn-k12/shop](https://www.apple.com/cn-k12/shop)
 
