@@ -1,12 +1,12 @@
 [TOC]
 
 # <font face="华文新魏">NEEPU</font>-<font face="Tempus Sans ITC">RESOURES</font>
-
-**东北电力大学校园资源<u>（整理不易，请右上角Star支持一下）</u>**
+<font face="微软雅黑">
+**东北电力大学校园资源（<u>整理不易，请右上角Star支持一下</u>）**
 
 ## 一.校园@edu邮箱
 
-其实学校给我们每人提供了一个@edu的校园邮箱，只是很多人没有激活
+<font face="微软雅黑">其实学校给我们每人提供了一个@edu的校园邮箱，只是很多人没有激活
 激活之后的邮箱账号为 <u>个人学号@neepu.edu.cn</u>
 校园邮箱的作用非常大！！！
 总结的话，请移步知乎<u>Yvon Shong</u>的回答[如何赚回学费！高校edu邮箱完整使用方式！](https://zhuanlan.zhihu.com/p/22804091)
@@ -58,3 +58,4 @@ JetBrains的idea（java编程）、pycharm（python编程）、Webstorm（前端
 
 ## 二.图书馆资源
 
+</font>
