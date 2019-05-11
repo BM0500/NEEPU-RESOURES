@@ -1,7 +1,6 @@
 [TOC]
 
 # <font face="华文新魏">NEEPU</font>-<font face="Tempus Sans ITC">RESOURES</font>
-<font face="微软雅黑">
 **东北电力大学校园资源（<u>整理不易，请右上角Star支持一下</u>）**
 
 ## 一.校园@edu邮箱
