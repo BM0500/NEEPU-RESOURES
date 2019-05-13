@@ -1,11 +1,9 @@
-[TOC]
 
-
-
+<!-- TOC -->autoauto- [<font face="华文新魏">NEEPU</font>-<font face="Tempus Sans ITC">RESOURES</font>](#font-face华文新魏neepufont-font-facetempus-sans-itcresouresfont)auto    - [一.校园@edu邮箱](#一校园edu邮箱)auto        - [激活方法](#激活方法)auto            - [1.JetBrains的Ultimate版学生免费](#1jetbrains的ultimate版学生免费)auto            - [3.GitHub教育包](#3github教育包)auto            - [4.腾讯云学生计划](#4腾讯云学生计划)auto            - [5.苹果教育优惠](#5苹果教育优惠)auto            - [6.微软教育优惠](#6微软教育优惠)auto    - [二.知网校园账号](#二知网校园账号)auto    - [二.图书馆资源](#二图书馆资源)auto    - [三.东电FTP服务器](#三东电ftp服务器)autoauto<!-- /TOC -->
 # <font face="华文新魏">NEEPU</font>-<font face="Tempus Sans ITC">RESOURES</font>
 **东北电力大学校园资源（<u>整理不易，请右上角Star支持一下:kissing_smiling_eyes:</u>）**
 
-![](D:\Code\NEEPU-RESOURES\img\xc.png)
+![](img\xc.png)
 
 ## 一.校园@edu邮箱
 
@@ -37,19 +35,19 @@ JetBrains的idea（java编程）、pycharm（python编程）、Webstorm（前端
 大概一到两个工作日就会给你的注册邮箱发送确认邮件
 这时候在页面输入账号密码即可![](img/jetsoftactive.png)
 
-#### 3.GitHub教育包
+#### 2.GitHub教育包
 
 [https://education.github.com/pack](https://education.github.com/pack)
 
-#### 4.腾讯云学生计划
+#### 3.腾讯云学生计划
 
 [https://cloud.tencent.com/act/campus](https://cloud.tencent.com/act/campus)
 
-#### 5.苹果教育优惠
+#### 4.苹果教育优惠
 
 [https://www.apple.com/cn-k12/shop](https://www.apple.com/cn-k12/shop)
 
-#### 6.微软教育优惠
+#### 5.微软教育优惠
 
 [https://www.microsoftstore.com.cn/student](https://www.microsoftstore.com.cn/student)
 
@@ -59,7 +57,7 @@ JetBrains的idea（java编程）、pycharm（python编程）、Webstorm（前端
 
 [在校园网下进入知网](http://www.cnki.net/)即可![](D:\Code\NEEPU-RESOURES\img\cnki.png)
 
-## 二.图书馆资源
+## 三.图书馆资源
 
 
 
