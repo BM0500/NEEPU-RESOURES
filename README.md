@@ -1,9 +1,22 @@
+<!-- TOC -->
 
-<!-- TOC -->autoauto- [<font face="华文新魏">NEEPU</font>-<font face="Tempus Sans ITC">RESOURES</font>](#font-face华文新魏neepufont-font-facetempus-sans-itcresouresfont)auto    - [一.校园@edu邮箱](#一校园edu邮箱)auto        - [激活方法](#激活方法)auto            - [1.JetBrains的Ultimate版学生免费](#1jetbrains的ultimate版学生免费)auto            - [3.GitHub教育包](#3github教育包)auto            - [4.腾讯云学生计划](#4腾讯云学生计划)auto            - [5.苹果教育优惠](#5苹果教育优惠)auto            - [6.微软教育优惠](#6微软教育优惠)auto    - [二.知网校园账号](#二知网校园账号)auto    - [二.图书馆资源](#二图书馆资源)auto    - [三.东电FTP服务器](#三东电ftp服务器)autoauto<!-- /TOC -->
+ [<font face="华文新魏">NEEPU</font>-<font face="Tempus Sans ITC">RESOURES</font>](#font-face华文新魏neepufont-font-facetempus-sans-itcresouresfont)  
+  - [一.校园@edu邮箱](#一校园edu邮箱)       
+     - [激活方法](#激活方法)           
+    - [1.JetBrains的Ultimate版学生免费](#1jetbrains的ultimate版学生免费)     
+    - [2.GitHub教育包](#2github教育包)       
+    - [3.腾讯云学生计划](#3腾讯云学生计划)          
+    - [4.苹果教育优惠](#4苹果教育优惠)       
+    - [5.微软教育优惠](#5微软教育优惠) 
+ - [二.知网校园账号](#二知网校园账号)   
+  - [三.图书馆资源](#三图书馆资源)   
+   - [三.东电FTP服务器](#三东电ftp服务器)
+   <!-- /TOC -->
+
 # <font face="华文新魏">NEEPU</font>-<font face="Tempus Sans ITC">RESOURES</font>
 **东北电力大学校园资源（<u>整理不易，请右上角Star支持一下:kissing_smiling_eyes:</u>）**
 
-![](img\xc.png)
+![](img/xc.png)
 
 ## 一.校园@edu邮箱
 
