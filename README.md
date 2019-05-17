@@ -1,4 +1,19 @@
-<!-- TOC -->autoauto- [<font face="华文新魏">NEEPU</font>-<font face="Tempus Sans ITC">RESOURES</font>](#font-face华文新魏neepufont-font-facetempus-sans-itcresouresfont)auto    - [一.校园@edu邮箱](#一校园edu邮箱)auto        - [1. 激活方法](#1-激活方法)auto            - [1.1 JetBrains的Ultimate版学生免费](#11-jetbrains的ultimate版学生免费)auto            - [1.2 GitHub教育包](#12-github教育包)auto            - [1.3 腾讯云学生计划](#13-腾讯云学生计划)auto            - [1.4 苹果教育优惠](#14-苹果教育优惠)auto            - [1.5 微软教育优惠](#15-微软教育优惠)auto            - [1.6 亚马逊云优惠](#16-亚马逊云优惠)auto    - [二.知网校园账号](#二知网校园账号)auto    - [三.图书馆资源](#三图书馆资源)auto            - [3.1 新东方媒体资源库](#31-新东方媒体资源库)auto            - [3.2 东北电力大学图书检索小程序](#32-东北电力大学图书检索小程序)auto            - [3.3 其他资源库](#33-其他资源库)auto    - [四.东电FTP服务器](#四东电ftp服务器)auto    - [五.教育网HDTV高清直播系统](#五教育网hdtv高清直播系统)autoauto<!-- /TOC -->
+[<font face="华文新魏">NEEPU</font>-<font face="Tempus Sans ITC">RESOURES</font>](#font-face华文新魏neepufont-font-facetempus-sans-itcresouresfont)   
+- [一.校园@edu邮箱](#一校园edu邮箱)       
+   - [1. 激活方法](#1-激活方法)           
+   - [1.1 JetBrains的Ultimate版学生免费](#11-jetbrains的ultimate版学生免费)          
+    - [1.2 GitHub教育包](#12-github教育包)           
+    - [1.3 腾讯云学生计划](#13-腾讯云学生计划)           
+    - [1.4 苹果教育优惠](#14-苹果教育优惠)           
+    - [1.5 微软教育优惠](#15-微软教育优惠)          
+     - [1.6 亚马逊云优惠](#16-亚马逊云优惠)   
+- [二.知网校园账号](#二知网校园账号)   
+- [三.图书馆资源](#三图书馆资源)           
+  - [3.1 新东方媒体资源库](#31-新东方媒体资源库)          
+   - [3.2 东北电力大学图书检索小程序](#32-东北电力大学图书检索小程序)           
+   - [3.3 其他资源库](#33-其他资源库)   
+- [四.东电FTP服务器](#四东电ftp服务器)   
+- [五.教育网HDTV高清直播系统](#五教育网hdtv高清直播系统)
 #  <font face="华文新魏">NEEPU</font>-<font face="Tempus Sans ITC">RESOURES</font>
 **东北电力大学校园资源（<u>整理不易，请右上角Star支持一下:kissing_smiling_eyes:</u>）**
 
