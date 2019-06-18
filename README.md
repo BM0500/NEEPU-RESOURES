@@ -1,4 +1,14 @@
 [<font face="华文新魏">NEEPU</font>-<font face="Tempus Sans ITC">RESOURES</font>](#font-face华文新魏neepufont-font-facetempus-sans-itcresouresfont)   
+
+#### 附上
+- <a href="https://github.com/PKUanonym/REKCARC-TSC-UHT">清华大学计算机课程攻略</a>
+- <a href="https://qsctech.github.io/zju-icicles/">浙江大学课程攻略共享计划</a>
+- <a href="https://ustc-resource.github.io/USTC-Course/">中国科学技术大学课程资源</a>
+- <a href="https://github.com/fengdu78/deeplearning_ai_books">吴恩达老师的深度学习课程笔记及资源</a>
+- <a href="https://github.com/deepwzh/sdust-examination-materials">山东科技大学课程资源共享计划</a>
+- <a href="https://lib-pku.github.io/">北京大学课程资料民间整理</a>
+- <a href="https://github.com/CoolPhilChen/SJTU-Courses//">上海交通大学课程资料分享</a>
+
 - [一.校园@edu邮箱](#一校园edu邮箱)       
    - [1. 激活方法](#1-激活方法)           
    - [1.1 JetBrains的Ultimate版学生免费](#11-jetbrains的ultimate版学生免费)          
