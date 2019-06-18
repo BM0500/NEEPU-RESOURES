@@ -1,7 +1,6 @@
 [<font face="华文新魏">NEEPU</font>-<font face="Tempus Sans ITC">RESOURES</font>](#font-face华文新魏neepufont-font-facetempus-sans-itcresouresfont)   
 想要贡献资源的朋友，比如课程资料，考研复习攻略皆可以PR，当然，前提是你需要简单的学习下Github，将入门PDF文档仔细阅读，基本能够完成简单的上传操作；或者去书旅小组QQ群里联系此项目负责人，让其代传！
-###### 欢迎贡献
-###### 优秀东电人的经验堆起来就是学弟学妹的福利源泉...
+###### 欢迎贡献，优秀东电人的经验堆起来就是学弟学妹的福利源泉...
 
 #### 附上优秀资源链接
 - <a href="https://github.com/PKUanonym/REKCARC-TSC-UHT">清华大学计算机课程攻略</a>
@@ -30,7 +29,8 @@
 - [五.教育网HDTV高清直播系统](#五教育网hdtv高清直播系统)
 
 
-![](img/sl.png)!
+![](img/sl.png)
+
 
 ##  一.校园@edu邮箱
 
