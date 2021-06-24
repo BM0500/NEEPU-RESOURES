@@ -1,4 +1,17 @@
 [<font face="华文新魏">NEEPU</font>-<font face="Tempus Sans ITC">RESOURES</font>](#font-face华文新魏neepufont-font-facetempus-sans-itcresouresfont)   
+想要贡献资源的朋友，比如课程资料，考研复习攻略皆可以PR，当然，前提是你需要简单的学习下Github，将入门PDF文档仔细阅读，基本能够完成简单的上传操作；或者去书旅小组QQ群里联系此项目负责人，让其代传！
+###### 欢迎贡献，优秀东电人的经验堆起来就是学弟学妹的福利源泉...
+
+#### 附上优秀资源链接
+- <a href="https://github.com/PKUanonym/REKCARC-TSC-UHT">清华大学计算机课程攻略</a>
+- <a href="https://qsctech.github.io/zju-icicles/">浙江大学课程攻略共享计划</a>
+- <a href="https://ustc-resource.github.io/USTC-Course/">中国科学技术大学课程资源</a>
+- <a href="https://github.com/fengdu78/deeplearning_ai_books">吴恩达老师的深度学习课程笔记及资源</a>
+- <a href="https://github.com/deepwzh/sdust-examination-materials">山东科技大学课程资源共享计划</a>
+- <a href="https://lib-pku.github.io/">北京大学课程资料民间整理</a>
+- <a href="https://github.com/CoolPhilChen/SJTU-Courses//">上海交通大学课程资料分享</a>
+
+#### 东电校园资源目录
 - [一.校园@edu邮箱](#一校园edu邮箱)       
    - [1. 激活方法](#1-激活方法)           
    - [1.1 JetBrains的Ultimate版学生免费](#11-jetbrains的ultimate版学生免费)          
@@ -14,10 +27,10 @@
    - [3.3 其他资源库](#33-其他资源库)   
 - [四.东电FTP服务器](#四东电ftp服务器)   
 - [五.教育网HDTV高清直播系统](#五教育网hdtv高清直播系统)
-#  <font face="华文新魏">NEEPU</font>-<font face="Tempus Sans ITC">RESOURES</font>
-**东北电力大学校园资源（<u>整理不易，请右上角Star支持一下:kissing_smiling_eyes:</u>）**
 
-![](img/sl.png)!
+
+![](img/sl.png)
+
 
 ##  一.校园@edu邮箱
 
